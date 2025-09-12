@@ -13,6 +13,7 @@ public class ContainsDuplicate {
         return false;
     }
 //     using Hashset reduce time complexity
+// adding something new
         public static boolean containsDuplicate1(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
         for (int num : nums) {

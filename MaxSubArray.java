@@ -20,7 +20,7 @@ public class MaxSubArray {
         System.out.println("Sum of all subArrays :" + totalsum);
     }
     public static void main(String[] args) {
-        int num[]= {2,4,6,8,10};
+        int num[]= {-2,1,-3,4,-1,2,1,-5,4};
         Subarray(num);
     }
 }

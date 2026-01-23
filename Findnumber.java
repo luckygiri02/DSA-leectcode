@@ -11,6 +11,7 @@ public class Findnumber {
         System.out.print("Enter the number to serach : ");
         int dig = sc.nextInt();
         index(arr, n, dig);
+        sc.close();
 
     }
     public static void index(int arr[] ,int n , int dig){
@@ -21,6 +22,7 @@ public class Findnumber {
             }
            
         }
+        
     }
     
 }

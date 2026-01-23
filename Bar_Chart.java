@@ -25,7 +25,7 @@ public class Bar_Chart {
             }
             System.out.println();
         }
-        
+        sc.close();
     }
     
 }

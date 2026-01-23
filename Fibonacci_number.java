@@ -14,5 +14,7 @@ public class Fibonacci_number {
 
 
          }
+
+         sc.close();
     }
 }

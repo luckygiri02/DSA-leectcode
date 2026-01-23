@@ -48,6 +48,7 @@ public class Spiral_Traversal {
             }
             minr++;
         }
+        sc.close();
     }
     
 }

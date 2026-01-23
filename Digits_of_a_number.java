@@ -20,6 +20,7 @@ public class Digits_of_a_number {
             n=n%div;
             div = div/10;
         }
+        sc.close();
     }
     
 }

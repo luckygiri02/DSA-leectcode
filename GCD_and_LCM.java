@@ -19,6 +19,9 @@ public class GCD_and_LCM {
 
         int lcm = (on1 * on2)/gcd;
         System.out.println("LCM is : "+lcm);
+
+
+        sc.close();
     }
     
 }

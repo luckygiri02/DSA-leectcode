@@ -25,5 +25,7 @@ public class IsPrime {
                 System.out.println(k + " is Prime");
             }
         }
+
+        sc.close();
     }
 }

@@ -32,6 +32,7 @@ public class Saddle_Point {
         }
         if(flag == true){
             System.out.println(arr[i][svj]);
+            sc.close();
             return;
         } 
         }

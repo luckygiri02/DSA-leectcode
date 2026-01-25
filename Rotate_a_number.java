@@ -35,7 +35,7 @@ public class Rotate_a_number {
 
         System.out.println(r1);
 
-
+sc.close();
     }
     
 }

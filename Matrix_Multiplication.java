@@ -27,8 +27,11 @@ public class Matrix_Multiplication {
         // Condition for multiplication
         if(c1 != r2){
             System.out.println("Invalid output");
+            sc.close();
             return;
+            
         }
+        
 
         int[][] prod = new int[r1][c2];
 

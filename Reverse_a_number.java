@@ -12,6 +12,7 @@ public class Reverse_a_number {
 
             n=n/10;
         }
+        sc.close();
     }
     
 }

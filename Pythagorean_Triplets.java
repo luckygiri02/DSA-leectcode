@@ -32,5 +32,7 @@ public class Pythagorean_Triplets {
         } else {
             System.out.println("False (Not a Pythagorean Triplet)");
         }
+
+        sc.close();
     }
 }
